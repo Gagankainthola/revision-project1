@@ -1,0 +1,119 @@
+body{
+text-align: center;
+}
+ /* nav-bar */
+ .navbar{
+   
+    margin-bottom: 6.5rem;
+ }
+.nav-item{
+   padding: 0 0 18px;
+}
+.navbar-brand{
+    font-family:'ubuntu';
+    font-size: 2.5rem;
+    font-weight: bold;
+    
+}
+.nav-link{
+    font-family: 'montserrat-light';
+    font-size: 1.2rem;
+    margin-left: 30px;
+}
+
+/* title-section */
+#title{
+    padding: 5% 13% 9%  13%;
+    background-color: #B9F3E4;
+}
+
+
+.container-fluid
+{    
+   ;
+
+
+}
+
+.buttons
+{   text-align: left;
+    padding: 5rem;
+    padding-left: 0px;
+}
+.sign-upbtn{
+    margin: 5% 5% 5% 0;
+}
+
+.appliane-img
+{
+   width:80%;
+   margin-left: 6rem;
+   background-color:#B9F3E4
+}
+.big-heading{
+    
+    text-align: left;
+    line-height: 1.5;
+}
+.d-flex{
+    margin-left:  10% ;
+    width: 50%;
+}
+
+/* feature section */
+#features{
+
+    padding: 7% 0 5% 0;
+}
+.featuresH3{
+
+    padding: 3% 0 3% 0;
+}
+
+/* products section */
+
+#products{
+    background-color: #B9F3E4;
+    padding: 2% 13% 5% 13%;
+}
+.product-bigheading{
+    font-size: 2.5rem;
+    font-family: 'Montserrat';
+    line-height: 1.5;
+    padding: 4% ;
+}
+.productclass{
+   padding-left: 0 10% 0 10 15%;
+}
+.card{
+    padding: 8%;
+}
+.product-column{
+   margin: 1rem;
+}
+
+/* download section */
+.download-bigheading{
+
+    font-size: 2rem;
+    font-family: 'Montserrat';
+    line-height: 1.5;
+    padding: 4% 25% 4% 25%;
+    
+}
+.ios-button{
+    margin-left: 10rem;
+}
+.download-buttons{
+    padding-bottom: 5%;
+}
+/* end sectionn */
+#end
+{
+    padding: 3% 5% 1% 5%;
+    background-color: #B9F3E4;
+}
+.icon-bottom
+{
+    padding: 0 3px;
+}
